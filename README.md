@@ -11,7 +11,7 @@ Railway では Git で自分が取り組んだ内容を記録するときに、�
 1. Node.js v14.17.0以降（v16.0.0以降を推奨します。）
 2. Yarn
 
-上記 2 つをインストールする必要があります。
+上記 2 つをインストールする必要があります
 
 ### インストール済みの場合
 
@@ -276,5 +276,6 @@ https://techbowl.co.jp/techtrain/resetpassword
 ログインしていれば、次のURLから確認できます。
 
 https://techbowl.co.jp/techtrain/mypage/profile
-#   h t m l s t a t i o n s 2  
+#   h t m l s t a t i o n s 2 
+ 
  
